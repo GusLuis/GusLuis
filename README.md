@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GusLuis&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" />
 </a>
 <a href="https://github.com/GusLuis/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusLuis&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusLuis&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8&card_width=150" />
 </a>
 
 
