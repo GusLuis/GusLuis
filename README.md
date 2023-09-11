@@ -17,6 +17,7 @@
 </a>
 
 <picture>
+  <a href="https://github.com/GusLuis/GusLuis/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
@@ -29,4 +30,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GusLuis&icon=5&color=0)](https://visitcount.itsvg.in)
-[![Snake animation](https://github.com/GusLuis/GusLuis/blob/output/github-contribution-grid-snake.svg)](https://github.com/GusLuis/GusLuis/blob/output/github-contribution-grid-snake.gif)https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+![Snake animation](https://github.com/GusLuis/GusLuis/blob/output/github-contribution-grid-snake-dark.svg)
