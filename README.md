@@ -23,3 +23,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GusLuis&icon=5&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/GusLuis/GusLuis/blob/output/github-contribution-grid-snake.svg)
